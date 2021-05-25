@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664619618254",
+    "project_id": "bitcore-6d193",
+    "storage_bucket": "bitcore-6d193.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664619618254:android:a90c5c6d31d4b44db7e59f",
+        "android_client_info": {
+          "package_name": "com.moktadir.bitcore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664619618254-q68f07gl2s5pbsrqnemlvrrtugk48qot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEm_mvOygZdMopwqs-YptXKsV0zgHww14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664619618254-q68f07gl2s5pbsrqnemlvrrtugk48qot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
